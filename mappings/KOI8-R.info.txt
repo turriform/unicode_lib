@@ -1,0 +1,38 @@
+# KOI8-R.TXT
+# Date: 2016-01-04 23:05:00 GMT [KW]
+# © 2016 Unicode®, Inc.
+# For terms of use, see http://www.unicode.org/terms_of_use.html
+#
+#	Name:             KOI8-R (RFC1489) to Unicode
+#	Unicode version:  3.0
+#	Table version:    2.0
+#	Table format:     Format A
+#	Date:             18 August 1999 (header updated: 2016-January-04)
+#	Authors:          Helmut Richter <richter@lrz.de>
+#
+#	General notes:
+#
+#	This table contains the data the Unicode Consortium has on how
+#       KOI8-R characters map into Unicode. The underlying document is the
+#	mapping described in RFC 1489. No statements are made as to whether
+#	this mapping is the same as the mapping defined as "Code Page 878"
+#	with some vendors.
+#
+#	Format:  Three tab-separated columns
+#		 Column #1 is the KOI8-R code (in hex as 0xXX)
+#		 Column #2 is the Unicode (in hex as 0xXXXX)
+#		 Column #3 the Unicode name (follows a comment sign, '#')
+#
+#	The entries are in KOI8-R order.
+#
+#	Version history
+#	1.0 version: created.
+#   2.0 version: updates to copyright notice and terms of use; no
+#       changes to character mappings
+#
+#	Updated versions of this file may be found in:
+#		http://www.unicode.org/Public/MAPPINGS/
+#
+#	Any comments or problems, contact us at:
+#       http://www.unicode.org/reporting.html
+#
